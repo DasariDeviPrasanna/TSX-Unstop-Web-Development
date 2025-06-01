@@ -1,0 +1,44 @@
+p {
+  color: rgb(58, 57, 137);
+  font-size: 14px;
+}
+nav ul
+{
+      list-style-type: none;
+      padding: 0;
+      margin: 10px 0 0 0;
+      display: flex;
+      gap: 20px;
+}
+nav h1{
+    justify-content: center;
+}
+
+ nav ul li {
+      display: inline;
+}
+ nav ul li a {
+      color: white;
+      text-decoration: none;
+}
+nav ul li a:hover {
+text-decoration: underline;
+}
+header {
+      background-color: #333;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+}    
+main {
+      padding: 20px 0;
+}
+article {
+      background-color: #f9f9f9;
+      padding: 20px;
+      border-radius: 8px;
+}
+article h2 {
+      margin-top: 0;
+      align-content: center;
+}
